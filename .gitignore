@@ -1,4 +1,5 @@
 # Runs / tests collaterals
+/Users/sahar/Documents/after_thesis/network-slimming/.python-version
 latest_log_dir
 latest_log_file
 logs/
@@ -41,3 +42,4 @@ distiller.egg-info/
 *.onnx
 *.csv
 poetry.lock
+.DS_Store
