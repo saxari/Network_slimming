@@ -1,8 +1,12 @@
 # Runs / tests collaterals
-/Users/sahar/Documents/after_thesis/network-slimming/.python-version
+data.cifar10
+data.cifar100
+.python-version
 latest_log_dir
 latest_log_file
+.DS_Store
 logs/
+.venv
 *.log
 *.tar
 *.pyc
